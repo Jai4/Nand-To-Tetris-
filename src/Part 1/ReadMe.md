@@ -1,3 +1,5 @@
+In "Nand to Tetris / Part I" (this course) we start with Nand gates, and gradually build the chipset and hardware platform of a simple computer system called Hack, as well as an assembler.
+
 ### Project 1: Building elementary logic gates like And, Or, Not, Multiplexor, and more
 * [Not Gate](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project1/Not.hdl)
 * [And Gate](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project1/And.hdl)
