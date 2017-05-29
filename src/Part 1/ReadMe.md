@@ -19,8 +19,8 @@ In "Nand to Tetris / Part I" (this course) we start with Nand gates, and gradual
 
 ### Project 2: Building a family of adder chips, culminating in the construction of an Arithmetic Logic Unit (ALU)
 
-* [Half Adder](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/HalfAdder.hdl)
-* [Full Adder](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/FullAdder.hdl)
-* [16-bit Adder](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/Add16.hdl)
-* [16-bit incrementer](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/Inc16.hdl)
-* [Arithmetic Logic Unit](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/ALU.hdl)
+* [Half Adder HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/HalfAdder.hdl) -- [Half Adder Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/HalfAdder.out)
+* [Full Adder HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/FullAdder.hdl) -- [Full Adder Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/FullAdder.out)
+* [16-bit Adder HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/Add16.hdl) -- [16-bit Adder Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/Add16.out)
+* [16-bit incrementer HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/Inc16.hdl) -- [16-bit incrementer Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/Inc16.out)
+* [Arithmetic Logic Unit HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/ALU.hdl) -- [Arithmetic Logic Unit Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project%202/ALU.out)
