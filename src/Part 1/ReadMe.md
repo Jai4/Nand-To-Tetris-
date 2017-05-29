@@ -14,3 +14,5 @@
 * [16-Bit/8-Way Mux](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project1/Mux8Way16.hdl)
 * [4-Way DeMultiplexer](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project1/DMux4Way.hdl)
 * [8-Way DeMultiplexer](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project1/DMux8Way.hdl)
+
+### Project 2: Building a family of adder chips, culminating in the construction of an Arithmetic Logic Unit (ALU)
