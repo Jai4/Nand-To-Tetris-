@@ -24,3 +24,15 @@ In "Nand to Tetris / Part I" (this course) we start with Nand gates, and gradual
 * [16-bit Adder HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project2/Add16.hdl) -- [16-bit Adder Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project2/Add16.out)
 * [16-bit incrementer HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project2/Inc16.hdl) -- [16-bit incrementer Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project2/Inc16.out)
 * [Arithmetic Logic Unit HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project2/ALU.hdl) -- [Arithmetic Logic Unit Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project2/ALU.out)
+
+### Project 3: Building registers and memory units, culminating in the construction of a Random Access Memory (RAM)
+
+* [1-Bit Register HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/Bit.hdl) -- [1-Bit Register Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/Bit.out)
+* [16-Bit Register HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/Register.hdl) -- [16-Bit Register Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/Register.out)
+* [16-Bit / 8-Register memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/RAM8.hdl) -- [16-Bit / 8-Register memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/RAM8.out)
+* [16-Bit / 64-Register Memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/RAM64.hdl) -- [16-Bit / 64-Register Memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/RAM64.out)
+* [16-Bit / 512-Register Memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM512.hdl) -- [16-Bit / 512-Register Memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM512.out)
+* [16-Bit / 4096-Register Memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM4K.hdl) -- [16-Bit / 4096-Register Memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM4K.out)
+* [16-Bit / 16384-Register Memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM16K.hdl) -- [16-Bit / 16384-Register Memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM16K.out)
+* [16-Bit Program Counter HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/PC.hdl) -- [16-Bit Program Counter Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/PC.out)
+
