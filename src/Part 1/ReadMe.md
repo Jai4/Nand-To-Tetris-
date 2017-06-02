@@ -36,3 +36,15 @@ In "Nand to Tetris / Part I" (this course) we start with Nand gates, and gradual
 * [16-Bit / 16384-Register Memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM16K.hdl) -- [16-Bit / 16384-Register Memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/b/RAM16K.out)
 * [16-Bit Program Counter HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/PC.hdl) -- [16-Bit Program Counter Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project3/a/PC.out)
 
+### Project 4: Learning a machine language and using it to write some illustrative low-level programs
+<p>
+1)  I/O handling: This program illustrates low-level handling of the screen and keyboard devices, as follows. The program runs an infinite loop that listens to the keyboard input. When a key is pressed (any key), the program blackens the screen, i.e. writes "black" in every pixel; the screen should remain fully black as long as the key is pressed. When no key is pressed, the program clears the screen, i.e. writes "white" in every pixel; the screen should remain fully clear as long as no key is pressed.
+</p>
+
+* [Fill ASM](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project4/fill/Fill.asm)
+
+<p>
+2) This program computes the value R0*R1 and stores the result in R2. in the Hack computer, the top 16 RAM words (RAM[0] ... RAM[15]) are also referred to as the so-called virtual registers R0 ... R15.
+</p>
+
+* [MUL ASM](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project4/mult/Mult.asm)
