@@ -75,3 +75,12 @@ In "Nand to Tetris / Part I" (this course) we start with Nand gates, and gradual
 <p>Rect: Draws a rectangle of width 16 pixels and length RAM[0] at the top left of the screen</p>
 
 * [Computer Rect Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/ComputerRect.out)
+
+### Project 6: Developing an assembler, i.e. a capability to translate programs written in symbolic machine language into binary, executable code.
+
+<p>Converted the following .asm files(symbolic machine language) into Binary code using the assembler implemented</p>
+
+* [Add.asm](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/add/Add.asm)--[Add Binary Code](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/add/Add.hack)
+* [Max,asm](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/max/Max.asm)--[Max Binary Code](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/max/Max.hack)
+* [Rect.asm](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/rect/Rect.asm)--[Rect Binary Code](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/rect/Rect.hack)
+* [Pong asm](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/pong/Pong.asm)--[Pong Binary Code](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project6/pong/Pong.hack)
