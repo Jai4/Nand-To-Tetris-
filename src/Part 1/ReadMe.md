@@ -48,3 +48,30 @@ In "Nand to Tetris / Part I" (this course) we start with Nand gates, and gradual
 </p>
 
 * [MUL ASM](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project4/mult/Mult.asm)
+
+### Project 5: Using the chipset built in projects 1-3 to build a Central Processing Unit (CPU) and a hardware platform capable of executing programs written in the machine language introduced in project 4
+
+<p>Memory: This chip includes three chip-parts: RAM16K, Screen, and Keyboard.</p>
+
+* [Memory HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/Memory.hdl) -- [Memory Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/Memory.out)
+
+<P>Central Processing Unit: This chip can be constructed according to the proposed CPU implementation, using the ALU and register chips built in Projects 2 and 3, respectively. </P>
+
+* [CPU HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/CPU.hdl) -- [CPU Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/CPU.out)
+
+<p>Computer: The top-most Computer chip</p>
+
+* [Computer HDL](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/Computer.hdl) 
+
+<p> Now using the Computer Built, Test the Following Programs</p>
+<p> Add: Adds up the two constants 2 and 3 and writes the result in RAM[0].</p>
+
+* [Computer Add Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/ComputerAdd.out)
+
+<p>Max: Computes the maximum of RAM[0] and RAM[1] and writes the result in RAM[2]</p>
+
+* [Computer Max Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/ComputerMax.out)
+
+<p>Rect: Draws a rectangle of width 16 pixels and length RAM[0] at the top left of the screen</p>
+
+* [Computer Rect Output](https://github.com/Jai4/Nand-To-Tetris-/blob/master/src/Part%201/Project5/ComputerRect.out)
